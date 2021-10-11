@@ -2,6 +2,7 @@
 
 ## Directories
 `pdf`: Save `pdf` files in this directory.
+
 `json`: Save `json` files in this directory (see `json` format rules below).
 
 ## Naming convention
