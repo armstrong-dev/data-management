@@ -3,4 +3,5 @@
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"16.08.2021",
     "abstract":"Case 8 of a 3D Superphenix Sodium Fast Reactor static neutronic benchmark is used for comparing efficiencies of eigenvalue solvers based on two methods: neutron diffusion and Monte Carlo in a framework of the ROOSTER code."
+    "links":[{"id":"","description":""}]
 }
