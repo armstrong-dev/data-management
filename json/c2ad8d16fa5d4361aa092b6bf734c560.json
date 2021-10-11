@@ -1,7 +1,9 @@
 {
+    "type":"Report",
     "title":"Comparison of multigroup eigenvalue solvers: Monte Carlo versus diffusion",
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"16.08.2021",
+    "commit":"",
     "abstract":"Case 8 of a 3D Superphenix Sodium Fast Reactor static neutronic benchmark is used for comparing efficiencies of eigenvalue solvers based on two methods: neutron diffusion and Monte Carlo in a framework of the ROOSTER code.",
-    "links":[{"id":"","description":""}]
+    "links":[{"id":"https://github.com/armstrong-dev/rooster/archive/bc39c7073c44a29fdf6384551b9aa073bc47861b.zip","description":"The ROOSTER code connit used for the calculations."}]
 }
