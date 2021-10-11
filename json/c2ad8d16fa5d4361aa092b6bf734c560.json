@@ -1,5 +1,6 @@
 {
     "type":"Report",
+    "extension":"pdf",
     "title":"Comparison of multigroup eigenvalue solvers: Monte Carlo versus diffusion",
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"16.08.2021",
