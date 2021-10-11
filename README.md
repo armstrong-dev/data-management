@@ -1,6 +1,6 @@
-#Database for the ARMSTRONG project
+# ARMSTRONG project database
 
-##Directories
+## Directories
 pdf: Save pdf files here
 
 ## Naming convention
