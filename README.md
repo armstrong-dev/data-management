@@ -5,6 +5,8 @@
 
 `json`: Save `json` files in this directory (see `json` format rules below).
 
+`zip`: Save `zip` archives in this directory.
+
 ## Naming convention
 Use a UUID generator, e.g. https://www.uuidgenerator.net/, to generate a 32-digit string (remove '-'). Add necessary extension.
 
