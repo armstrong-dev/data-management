@@ -5,5 +5,8 @@
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"12.10.2021",
     "abstract":"The nuclear data files have been prepared for Superphenix benchmark calculations using the NJOY21 code. The format of the files is GENDF. Unzip the archive and provide the path to the DATA025 directory in the ROOSTER input.",
-    "links":[{"description":"The NJOY21 code version used for the calculations.", "id":"https://github.com/njoy/NJOY21/archive/0e2ce9f749b13c02f8b1eb15b85f55d06dbc716a.zip"}]
+    "links":[
+    {"description":"The NJOY21 code version used for the calculations.", "id":"https://github.com/njoy/NJOY21/archive/0e2ce9f749b13c02f8b1eb15b85f55d06dbc716a.zip"}
+    {"description":"The NJOY21 code input files used for preparation of the input files.", "id":"05df41573a784c1180fa5f010ff55872"}
+    ]
 }
