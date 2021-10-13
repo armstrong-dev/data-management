@@ -4,6 +4,6 @@
     "title":"Isotope-wise unput files for the NJOY21 code to generate 25-group microscopic cross sections in GENDF format",
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"13.10.2021",
-    "abstract":"The input files for the NJOY21 code are to be used for generation of the 25-group microscopic cross sections in GENDF format. These nuclear data files was used for Superphenix benchmark calculations. The instructions in NJOY21 installation and application can be found in the code manual.",
+    "abstract":"The input files for the NJOY21 code are to be used for generation of the 25-group microscopic cross sections in GENDF format. These nuclear data files was used for Superphenix benchmark calculations. The instructions on the NJOY21 installation and application can be found in the code manual.",
     "links":[{"description":"The NJOY21 code version used with the unput files.", "id":"https://github.com/njoy/NJOY21/archive/0e2ce9f749b13c02f8b1eb15b85f55d06dbc716a.zip"}]
 }
