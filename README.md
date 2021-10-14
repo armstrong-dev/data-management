@@ -7,6 +7,8 @@
 
 `zip`: Save `zip` archives in this directory.
 
+`txt`: Save text files in this directory.
+
 ## Naming convention
 Use a UUID generator, e.g. https://www.uuidgenerator.net/, to generate a 32-digit string (remove '-'). Add necessary extension.
 
