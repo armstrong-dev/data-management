@@ -4,7 +4,7 @@
     "title":"Input file for ROOSTER",
     "authors":[{"name":"Konstantin MIKITYUK", "affiliation":"Paul Scherrer Institut, Villigen PSI"}],
     "date":"14.10.2021",
-    "abstract":"ROOSTER input file for Case 8 of a 3D Superphenix Sodium Fast Reactor static neutronic benchmark.",
+    "abstract":"ROOSTER input file for Case 8 of a 3D Superphenix Sodium Fast Reactor static neutronic benchmark. Rename it to 'input'.",
     "links":[
     {"description":"Report on the benchmark exercise.","id":"c2ad8d16fa5d4361aa092b6bf734c560"},
     {"description":"The ROOSTER code version used for the calculations.","id":"https://github.com/armstrong-dev/rooster/archive/bc39c7073c44a29fdf6384551b9aa073bc47861b.zip"},
