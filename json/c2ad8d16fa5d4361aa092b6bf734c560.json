@@ -6,6 +6,7 @@
     "date":"16.08.2021",
     "abstract":"Case 8 of a 3D Superphenix Sodium Fast Reactor static neutronic benchmark is used for comparing efficiencies of eigenvalue solvers based on two methods: neutron diffusion and Monte Carlo in a framework of the ROOSTER code.",
     "links":[
+    {"description":"A. Ponomarev, K. Mikityuk, L. Zhang, E. Nikitin, E. Fridman, F. Álvarez-Velarde, P. Romojaro Otero, A. Jiménez-Carrascosa, N. García-Herranz, B. Lindley, U. Baker, A. Seubert, R. Henry. Superphénix Benchmark Part I: Results of Static Neutronics, ASME J of Nuclear Rad Sci., ESFR-SMART Special Issue, January 2022, Vol.8, NERS-21-1046.","id":"https://doi.org/10.1115/1.4051449"},
     {"description":"The ROOSTER code version used for the calculations.","id":"https://github.com/armstrong-dev/rooster/archive/bc39c7073c44a29fdf6384551b9aa073bc47861b.zip"},
     {"description":"The ROOSTER input file used for the calculations of Case 8.","id":"6b2a060ba7364fc096002b5afa29781f"},
     {"description":"The 25-group nuclear data used for the calculations.","id":"e9fecb7350ec4e9b96eba57cc555a241"}
